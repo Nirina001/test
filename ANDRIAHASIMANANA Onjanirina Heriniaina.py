@@ -74,7 +74,9 @@ if __name__ == '__main__':
     canonique(prop)
 
     print("Le tableau n'est pas vraiment terminé mais pouvez-vous accepter ceci?")
-    # prop = input("entrer une proposition: ")
+    print('la forme du fonction doit-être comme (x*y)+(-x*z)+-(y*z)')
+    print("connecteurs: * = et, + = ou, - = non")
+    prop = input("entrer une fonction logique : ")
     # list splited by +
     pro = prop.split("+")
     # splited propo: proposition
