@@ -1,2 +1,2 @@
-# test
-tst
+# python 
+exercice 1
